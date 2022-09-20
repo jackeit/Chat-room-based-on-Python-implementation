@@ -8,7 +8,9 @@
 调试使用的程序：
                 命令行程序（python版本3.85）
                 Jupyter notebook(python 版本3.85)
-                
+***
+**若无法查看到图片则是网络的问题，或者下载pdf观看**
+***
 python实现socket通讯原理：
 ![](vx_images/383701217220957.png)
 实现细节和运行效果：
